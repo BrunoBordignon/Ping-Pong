@@ -1,0 +1,11 @@
+D:\1BrunoBordignon\Tata TCS\Estágio\Treinamento Técnico\C#_NET\Ping Pong\Ping Pong\Ping Pong\bin\Debug\Ping Pong.exe.config
+D:\1BrunoBordignon\Tata TCS\Estágio\Treinamento Técnico\C#_NET\Ping Pong\Ping Pong\Ping Pong\bin\Debug\Ping Pong.exe
+D:\1BrunoBordignon\Tata TCS\Estágio\Treinamento Técnico\C#_NET\Ping Pong\Ping Pong\Ping Pong\bin\Debug\Ping Pong.pdb
+D:\1BrunoBordignon\Tata TCS\Estágio\Treinamento Técnico\C#_NET\Ping Pong\Ping Pong\Ping Pong\bin\Debug\OpenTK.dll
+D:\1BrunoBordignon\Tata TCS\Estágio\Treinamento Técnico\C#_NET\Ping Pong\Ping Pong\Ping Pong\bin\Debug\OpenTK.pdb
+D:\1BrunoBordignon\Tata TCS\Estágio\Treinamento Técnico\C#_NET\Ping Pong\Ping Pong\Ping Pong\bin\Debug\OpenTK.xml
+D:\1BrunoBordignon\Tata TCS\Estágio\Treinamento Técnico\C#_NET\Ping Pong\Ping Pong\Ping Pong\obj\Debug\Ping Pong.csproj.AssemblyReference.cache
+D:\1BrunoBordignon\Tata TCS\Estágio\Treinamento Técnico\C#_NET\Ping Pong\Ping Pong\Ping Pong\obj\Debug\Ping Pong.csproj.CoreCompileInputs.cache
+D:\1BrunoBordignon\Tata TCS\Estágio\Treinamento Técnico\C#_NET\Ping Pong\Ping Pong\Ping Pong\obj\Debug\Ping Pong.csproj.CopyComplete
+D:\1BrunoBordignon\Tata TCS\Estágio\Treinamento Técnico\C#_NET\Ping Pong\Ping Pong\Ping Pong\obj\Debug\Ping Pong.exe
+D:\1BrunoBordignon\Tata TCS\Estágio\Treinamento Técnico\C#_NET\Ping Pong\Ping Pong\Ping Pong\obj\Debug\Ping Pong.pdb
